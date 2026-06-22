@@ -1,0 +1,6 @@
+{
+  "name": "Simulador Financeiro e de Investimentos",
+  "description": "Calculadora de Valor Futuro (VF), Valor Presente (VP) de financiamentos, avaliação de imóveis m² por região, além de simulação de aportes, resgates de investimentos e extratos periódicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
